@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Hp
+ *
+ */
+module LinkList {
+}
